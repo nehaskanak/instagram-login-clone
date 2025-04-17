@@ -18,7 +18,7 @@ This is a **responsive clone of Instagram’s login page**, built using **HTML a
 
 ## 📸 Preview
 
-![Istagram Login Clone Preview](./instawebpg,screenshot)
+![Istagram Login Clone Preview](./instawebpgscreenshot.png)
 
 **##Live Demo** - Coming Soon
 
