@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instgram</title>
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+    <link rel="stylesheet" href="./instagramwebpg.css">
+</head>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        document.querySelector(".form_blk").style.opacity = "1";
+    });
+</script>
+
+<body>
+    <main id="main_blk">
+        <section class="login_blk">
+            <article class="form_blk">
+                <h1>Instagram</h1>
+                <form>
+                    <input type="text" placeholder="Phone number, username, email"><br>
+                    <input type="password" placeholder="Password"><br>
+                    <button>Log in</button>
+                </form>
+
+            </article>
+            <div id="line_blk">
+                <div></div>
+                <div>OR</div>
+                <div></div>
+            </div>
+        <aside class="facebook_blk">
+            <p><i class="ri-facebook-circle-fill"></i><a href="https://www.facebook.com/">Log in with Facebook</a></p>
+            <p>Forgot Password?</p>
+        </aside>
+    </section>
+        <section class="signup_blk">
+            <p>Don't have an account? <a href="#">SignUp</a></p>
+        </section>
+    </main>
+</body>
+</html>
