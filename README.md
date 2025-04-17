@@ -1,6 +1,8 @@
-# Instagram Login Page Clone
+# 📸 Instagram Login Page Clone
 
-This is a **responsive clone of Instagram’s login page**, built using **HTML and CSS**. It includes simple UI animations and a modern look.
+This is a responsive clone of Instagram’s login page, built using **HTML and CSS**. It includes simple UI animations and a modern look.
+
+---
 
 ## 🌟 Features
 
@@ -9,6 +11,8 @@ This is a **responsive clone of Instagram’s login page**, built using **HTML a
 - Facebook login simulation
 - Aesthetic UI with hover effects
 
+---
+
 ## 🔧 Technologies Used
 
 - HTML
@@ -16,13 +20,30 @@ This is a **responsive clone of Instagram’s login page**, built using **HTML a
 - Minimal JavaScript (for animation only)
 - [RemixIcon](https://remixicon.com/) for icons
 
+---
+
 ## 📸 Preview
 
-![Istagram Login Clone Preview](./instawebpgscreenshot.png)
+![Instagram Login Clone Preview](instawebpgscreenshot.png)
 
-**##Live Demo** - Coming Soon
+---
+
+## 🚀 Live Demo
+
+**Coming Soon...**
+
+---
 
 ## 📂 Folder Structure
 
-## Author
+
+---
+
+## 👩‍💻 Author
+
 **Neha S Kanak**
+
+- 💼 LinkedIn Profile:(https://www.linkedin.com/in/nehaskanak) 
+- 📬 Email: nehakanaks06@gmail.com
+
+
